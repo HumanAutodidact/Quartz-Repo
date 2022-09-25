@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d0f8d8b52c73bd5d",
@@ -120,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c0bbefe33c5a694",
+  "active": "feda97af60a8e5cc",
   "lastOpenFiles": [
     "README.md"
   ]
