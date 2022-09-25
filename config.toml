@@ -1,4 +1,4 @@
-baseURL = "https://humanautodidact.github.io/Quartz-Repo/"
+baseURL = "https://<HumanAutodidact>.github.io/Quartz-Repo/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
