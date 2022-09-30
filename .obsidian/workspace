@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Multitasking.md",
+            "file": "content/_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Multitasking.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Multitasking.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Multitasking.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -130,13 +130,15 @@
   },
   "active": "7c0bbefe33c5a694",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/notes/New Projects.md",
     "content/notes/Multitasking.md",
+    "content/_index.md",
+    "content/templates/post.md",
+    "notes/New.md",
+    "notes/NewProjects.md",
     "content/notes/How to Start a Self-Study Project.md",
     "content/notes/Mastery-Based Learning.md",
-    "content/templates/post.md",
     "notes/Multitasking.dm.md",
-    "notes.md",
-    "README.md"
+    "notes.md"
   ]
 }

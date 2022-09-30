@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 # Journal
+- ### ["New Projects"](notes/New%20Projects.md)
 - ### ["Multitasking"](notes/Multitasking.md)
 
 
